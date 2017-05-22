@@ -1,2 +1,1 @@
-# reproducible-research-project-2-master
-reproducible-research-project-2-master
+Coursework for [Johns Hopkins Reproducible Research](https://www.coursera.org/course/repdata) course.
